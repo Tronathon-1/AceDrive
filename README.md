@@ -1,4 +1,4 @@
-# CSE 416: Fall 2022 Project - Cloud Drive Sharing Manager
+# AceDrive - Cloud Drive Sharing Manager
 
 ### Running the development server:
 ```bash
